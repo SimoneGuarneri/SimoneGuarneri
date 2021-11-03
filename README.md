@@ -25,7 +25,7 @@ interest in artificial intelligence.</p>
 
 </br>
 
-**Languages and Tools:**  
+**Languages and Tools**  
 <div>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
