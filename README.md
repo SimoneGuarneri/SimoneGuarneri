@@ -27,17 +27,17 @@ interest in artificial intelligence.</p>
 
 **Languages and Tools:**  
 <div>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-1a73e8?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Css 3" src="https://img.shields.io/badge/-CSS3-FB542B?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Css 3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-db7092?style=flat-square&logo=mysql&logoColor=white" />
 </div>
 
 </br>
