@@ -1,4 +1,17 @@
 ### Hi <img src="https://media3.giphy.com/media/mVWFDI1t56KLuzgWav/giphy.gif" width="50px">
+<br />
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="500" height="320" />
+
+<p>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
+my passion for programming and development, studying
+much, as well as institutionally, also as self-taught. The
+field that has interested me most so far is the web, I think
+be the future if not the present. Also I have a strong one
+interest in artificial intelligence.</p>
+
+**Links**
+
 <a href="https://discord.com/users/161949066765271040">
   <img align="left" alt="Simones's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -11,16 +24,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SimoneGuarneri.SimoneGuarneri)
 
-<br />
-
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="500" height="320" />
-
-<p>360° passionate about the computer world, I cultivate more than anything
-my passion for programming and development, studying
-much, as well as institutionally, also as self-taught. The
-field that has interested me most so far is the web, I think
-be the future if not the present. Also I have a strong one
-interest in artificial intelligence.</p>
+</br>
 
 **Languages and Tools:**  
 
