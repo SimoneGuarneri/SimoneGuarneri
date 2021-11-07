@@ -23,7 +23,7 @@ interest in artificial intelligence.</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SimoneGuarneri.SimoneGuarneri)
 
-</br></br>
+</br>
 
 **Languages and Tools**  
 <div>
