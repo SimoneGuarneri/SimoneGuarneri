@@ -20,6 +20,9 @@ interest in artificial intelligence.</p>
 <a href="https://open.spotify.com/user/ch5l5j0xl9bzswthxsdi910u8?si=d3f5e07f94d4475a">
   <img align="left" alt="Simones's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://www.notion.so/simoneguarneri/Hub-Universit-ccbfe261cdfc47b0851d3ae315238d28">
+  <img align="left" alt="Simones's Notion" width="22px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SimoneGuarneri.SimoneGuarneri)
 
