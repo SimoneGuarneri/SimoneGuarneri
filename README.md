@@ -9,6 +9,9 @@ field that has interested me most so far is the web, I think
 be the future if not the present. Also I have a strong one
 interest in artificial intelligence.</p>
 
+Find more at
+<a href="https://simoneguarneri.is">simoneguarneri.is</a>
+
 **Links**
 
 <a href="https://discord.com/users/161949066765271040">
@@ -34,6 +37,7 @@ interest in artificial intelligence.</p>
   <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-1a73e8?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
