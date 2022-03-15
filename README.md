@@ -21,7 +21,7 @@ Find more at
   <img align="left" alt="Simones's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/ch5l5j0xl9bzswthxsdi910u8?si=d3f5e07f94d4475a">
-  <img align="left" alt="Simones's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Simones's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" />
 </a>
 <a href="https://www.notion.so/simoneguarneri/Hub-Universit-ccbfe261cdfc47b0851d3ae315238d28">
   <img align="left" alt="Simones's Notion" width="22px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
