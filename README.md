@@ -29,7 +29,7 @@ Find more at
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SimoneGuarneri.SimoneGuarneri)
 
-</br>
+<!-- </br>
 
 **Languages and Tools**  
 <div width="400" >
@@ -45,7 +45,7 @@ Find more at
   <img alt="Css 3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-db7092?style=flat-square&logo=mysql&logoColor=white" />
-</div>
+</div> -->
 
 </br>
 
