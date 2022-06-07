@@ -26,6 +26,10 @@ Find more at
 <a href="https://www.notion.so/simoneguarneri/Hub-Universit-ccbfe261cdfc47b0851d3ae315238d28">
   <img align="left" alt="Simones's Notion" width="22px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
 </a>
+</a>
+<a href="https://www.behance.net/SimoneGuarneri">
+  <img align="left" alt="Simones's Behance" width="22px" src="https://logojinni.com/image/logos/behance-644.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SimoneGuarneri.SimoneGuarneri)
 
