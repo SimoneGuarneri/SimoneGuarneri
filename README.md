@@ -9,9 +9,6 @@ field that has interested me most so far is the web, I think
 be the future if not the present. Also I have a strong one
 interest in artificial intelligence.</p>
 
-Find more at
-<a href="https://simoneguarneri.is">simoneguarneri.is</a>
-
 **Links**
 
 <a href="https://discord.com/users/161949066765271040">
