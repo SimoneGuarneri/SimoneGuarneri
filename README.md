@@ -1,6 +1,6 @@
 ### Hi <img src="https://media3.giphy.com/media/mVWFDI1t56KLuzgWav/giphy.gif" width="80px" height="80px">
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/F27LFqIj3QYI2zgQAJ" width="500" height="350" margin="30px" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/F27LFqIj3QYI2zgQAJ/giphy.gif" width="350" height="350" margin="20px"/>
 
 <p>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
 my passion for programming and development, studying
