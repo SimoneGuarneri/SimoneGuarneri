@@ -1,14 +1,13 @@
 ### Hi <img src="https://media3.giphy.com/media/mVWFDI1t56KLuzgWav/giphy.gif" width="80px" height="80px">
 
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/F27LFqIj3QYI2zgQAJ/giphy.gif" width="450" height="450" margin="5"/>
 
-<p width='300'>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
-my passion for programming and development, studying
-much, as well as institutionally, also as self-taught. The
-field that has interested me most so far is the web, I think
-be the future if not the present. Also I have a strong one
-interest in artificial intelligence.</p>
-
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/F27LFqIj3QYI2zgQAJ/giphy.gif" width="450" height="450" margin="5"/>
+<p>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
+  my passion for programming and development, studying
+  much, as well as institutionally, also as self-taught. The
+  field that has interested me most so far is the web, I think
+  be the future if not the present. Also I have a strong one
+  interest in artificial intelligence.</p>
 
 **Links**
 
