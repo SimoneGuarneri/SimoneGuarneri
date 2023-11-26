@@ -43,7 +43,7 @@ interest in artificial intelligence.</p>
 </br>
 </br>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SimoneGuarneri&show_icons=true&theme=shades-of-purple" alt="SimoneGuarneri" width="400" margin="0px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SimoneGuarneri&show_icons=true&theme=shades-of-purple" alt="SimoneGuarneri" width="400" margin="10px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneGuarneri&layout=compact&theme=shades-of-purple" alt="SimoneGuarneri" width="300px"/>
 
 
