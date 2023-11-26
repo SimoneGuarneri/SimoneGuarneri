@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/F27LFqIj3QYI2zgQAJ/giphy.gif" width="450" height="450" margin="20px"/>
 
-<p>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
+<p width='300'>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
 my passion for programming and development, studying
 much, as well as institutionally, also as self-taught. The
 field that has interested me most so far is the web, I think
@@ -44,6 +44,6 @@ interest in artificial intelligence.</p>
 </br>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SimoneGuarneri&show_icons=true&theme=shades-of-purple" alt="SimoneGuarneri" width="400" margin="10px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneGuarneri&layout=compact&theme=shades-of-purple" alt="SimoneGuarneri" width="300px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneGuarneri&layout=compact&theme=shades-of-purple" alt="SimoneGuarneri" width="300"/>
 
 
