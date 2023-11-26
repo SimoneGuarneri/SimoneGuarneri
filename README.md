@@ -1,6 +1,6 @@
 ### Hi <img src="https://media3.giphy.com/media/mVWFDI1t56KLuzgWav/giphy.gif" width="80px" height="80px">
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/F27LFqIj3QYI2zgQAJ/giphy.gif" width="450" height="450" margin="5"/>
+<img align="right" float='right' alt="GIF" src="https://media2.giphy.com/media/F27LFqIj3QYI2zgQAJ/giphy.gif" width="450" height="450" margin="5"/>
 
 <p>I'm Simone, 360° passionate about the computer world, I cultivate more than anything
   my passion for programming and development, studying
@@ -9,6 +9,7 @@
   be the future if not the present. Also I have a strong one
   interest in artificial intelligence.</p>
 
+</br>
 **Links**
 
 <a href="https://www.linkedin.com/in/simone-guarneri-343011183/">
@@ -25,6 +26,7 @@
 </br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SimoneGuarneri&show_icons=true&theme=shades-of-purple" alt="SimoneGuarneri" width="400" margin="5"/>
+</br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneGuarneri&layout=compact&theme=shades-of-purple" alt="SimoneGuarneri" width="300"/>
 
 
